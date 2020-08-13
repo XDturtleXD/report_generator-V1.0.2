@@ -1,0 +1,1 @@
+Choose between .msi and .exe for your system
